@@ -13,15 +13,17 @@
 
 <img src="https://img.shields.io/badge/_C_-a8b9cc?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a><br/>
 <img src="https://img.shields.io/badge/ARM_Assembly-0091bd?style=flat&logo=arm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-512bd4?style=flat&logo=dotnet&logoColor=white"/></a>
 <br/><br/>
 
 ### 🔧 tools
 
 <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white"/></a>
 <br/><br/>
 
 ### ☎️ Contact
