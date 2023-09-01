@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=CVE_Zeroday&fontSize=90&fontColor=bd93f9&fontAlignY=50&border)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=CVE_Zeroday&fontSize=90&fontColor=bd93f9&fontAlignY=50&animation=fadeIn&desc=T.Y.Kim&descSize=30&descAlignY=90&descAlign=80)
 
 ### 💡 Interests
 
