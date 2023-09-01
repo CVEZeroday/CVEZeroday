@@ -7,6 +7,7 @@
 💻 Security <br/>
 🖥️ System <br/>
 📊 Algorithms <br/>
+🎮 GameDev <br/>
 
 ### 📋 Languages
 
@@ -31,7 +32,7 @@
 
 ### ✏️ velog
 
-[![Velog](https://velog-readme-stats.vercel.app/api?name=CVEZeroday&color=dark)](https://velog.io/@cvezeroday)
+[![Velog](https://velog-readme-stats.vercel.app/api?name=cvezeroday&color=dark)](https://velog.io/@cvezeroday)
 <br/><br/>
 
 ### 📝 Solved.ac
