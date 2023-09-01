@@ -8,12 +8,13 @@
 🖥️ System <br/>
 📊 Algorithms <br/>
 🎮 GameDev <br/>
+<br/>
 
 ### 📋 Languages
 
 <img src="https://img.shields.io/badge/_C_-a8b9cc?style=flat&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a><br/>
+<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ARM_Assembly-0091bd?style=flat&logo=arm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSharp-512bd4?style=flat&logo=dotnet&logoColor=white"/></a>
