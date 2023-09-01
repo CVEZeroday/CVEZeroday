@@ -1,5 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=282a36&height=200&section=header&text=CVE%20Zeroday&fontSize=70&fontColor=f8f8f2&fontAlignY=40&border)
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=282a36&height=200&section=header&text=CVE%20Zeroday&fontSize=70&fontColor=f8f8f2&fontAlignY=40&border)
+
+### 💡 Interests
+
+💻 Security <br/>
+🖥️ System <br/>
+📊 Algorithms <br/>
 
 ### 📋 Languages
 
@@ -8,23 +15,29 @@
 <img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ARM_Assembly-0091bd?style=flat&logo=arm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/></a>
-<br/>
+<br/><br/>
 
-### 🔨 tools
+### 🔧 tools
 
 <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
-<br/>
+<br/><br/>
+
+### ☎️ Contact
+
+<a href="mailto:tykim050206@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/tykim050206@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<br/><br/>
 
 ### ✏️ velog
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=CVEZeroday&color=dark)](https://velog.io/@cvezeroday)
-<br/>
+<br/><br/>
 
 ### 📝 Solved.ac
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cve_zeroday)](https://solved.ac/cve_zeroday)
-<br/>
+<br/><br/>
 
 ### ⭐ Github stats
 
