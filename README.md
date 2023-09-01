@@ -9,9 +9,17 @@
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=CVEZeroday&color=dark)](https://velog.io/@cvezeroday)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CVEZeroday&rank_icon=github&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVEZeroday&layout=compact&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br><br>
+#### 📝 Solved.ac
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cve_zeroday)](https://solved.ac/cve_zeroday)
+
+<br/>
+
+#### ⭐ Github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=CVEZeroday&rank_icon=github&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVEZeroday&layout=compact&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br/><br/>
 
 </div>
