@@ -12,19 +12,19 @@
 
 ### 📋 Languages
 
-<img src="https://img.shields.io/badge/_C_-a8b9cc?style=flat&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat&logo=intel&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ARM_Assembly-0091bd?style=flat&logo=arm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSharp-512bd4?style=flat&logo=dotnet&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/_C_-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/X64_Assembly-0071c5?style=flat-square&logo=intel&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ARM_Assembly-0091bd?style=flat-square&logo=arm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-512bd4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <br/><br/>
 
 ### 🔧 tools
 
-<img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio-5c2d91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
 <br/><br/>
 
 ### ☎️ Contact
@@ -45,7 +45,7 @@
 
 ### ⭐ Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=CVEZeroday&rank_icon=github&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=CVEZeroday&rank_icon=github&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVEZeroday&layout=compact&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br/><br/>
 
 </div>
