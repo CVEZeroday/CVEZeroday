@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/CSharp-512bd4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <br/><br/>
 
-### 🔧 tools
+### 🔧 Tools
 
 <img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=linux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/></a>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/tykim050206@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br/><br/>
 
-### ✏️ velog
+### ✏️ Velog
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=cvezeroday&color=dark)](https://velog.io/@cvezeroday)
 <br/><br/>
@@ -45,7 +45,7 @@
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cve_zeroday)](https://solved.ac/cve_zeroday)
 <br/><br/>
 
-### ⭐ Github stats
+### ⭐ Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=CVEZeroday&rank_icon=github&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CVEZeroday&layout=compact&bg_color=282a36&text_color=f8f8f2&title_color=bd93f9"><br/><br/>
