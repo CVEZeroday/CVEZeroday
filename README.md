@@ -35,11 +35,6 @@
 <img src="https://img.shields.io/badge/tykim050206@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br/><br/>
 
-### ✏️ Velog
-
-[![Velog](https://velog-readme-stats.vercel.app/api?name=cvezeroday&color=dark)](https://velog.io/@cvezeroday)
-<br/><br/>
-
 ### 📝 Solved.ac
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cve_zeroday)](https://solved.ac/cve_zeroday)
