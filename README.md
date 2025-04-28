@@ -24,7 +24,7 @@
 
 ### ☎️ Contact
 
-<a href="mailto:tykim050206@gmail.com" target="_blank">
+<a href="mailto:tykim.skku.sw@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/tykim050206@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <br/><br/>
 
